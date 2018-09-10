@@ -6,3 +6,4 @@ emmmm
 - [Lambda 表达式](https://www.oracle.com/technetwork/cn/articles/servers-storage-dev/howto-use-lambda-exp-cpp11-2189895-zhs.html)
 - [cpp thread](https://github.com/king-etc/King-Blog/issues/1)
 - [cpp std::thread](https://github.com/king-etc/King-Blog/issues/2)
+- [cpp 计时 用来计算运行间隔 分析优化程序 单位 ns](https://github.com/king-etc/library/blob/master/chrono/chrono.hpp)
