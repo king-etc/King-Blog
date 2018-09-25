@@ -10,3 +10,4 @@ emmmm
 - [map && unordered_map](https://github.com/king-etc/King-Blog/issues/4)
 - [Memory Alignment ](https://github.com/king-etc/King-Blog/issues/6)
 - [Lock-free queue](https://github.com/king-etc/library/tree/master/queue)
+- [ARM pointer authentication](https://lwn.net/Articles/718888/)有意思的指针验证。通过签名方式。
