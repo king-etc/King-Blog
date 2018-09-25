@@ -9,3 +9,4 @@ emmmm
 - [cpp 计时 用来计算运行间隔 分析优化程序 单位 ns](https://github.com/king-etc/library/blob/master/chrono/chrono.hpp)
 - [map && unordered_map](https://github.com/king-etc/King-Blog/issues/4)
 - [Memory Alignment ](https://github.com/king-etc/King-Blog/issues/6)
+- [Lock-free queue](https://github.com/king-etc/library/tree/master/queue)
